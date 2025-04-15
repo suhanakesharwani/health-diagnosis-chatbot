@@ -33,7 +33,7 @@ health_diagnosis_chatbot/ ├── app.py ├── train_model.py ├── da
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/health_diagnosis_chatbot.git
+git clone https://github.com/suhanakesharwani/health_diagnosis_chatbot.git
 cd health_diagnosis_chatbot
 
 # Install packages
@@ -56,7 +56,7 @@ Show prediction accuracy
 
 
 👨‍💻 Author
-Made with ❤️ by Your Name
+Made with ❤️ by Suhana Kesharwani
 
 yaml
 Copy
