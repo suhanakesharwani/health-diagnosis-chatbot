@@ -1,0 +1,6 @@
+fever,cough,headache,fatigue,nausea,disease
+1,1,1,1,0,Flu
+1,0,0,1,1,Food Poisoning
+0,1,1,0,0,Common Cold
+1,0,1,1,1,Dengue
+0,0,0,1,1,Stress
